@@ -3,13 +3,17 @@ A Python script that leverages on the https://haveibeenpwned.com API to check if
 
 ## Usage
 
-Install Requests library if you don't already have it.
+Download this program
+```
+https://github.com/virgoaugustine/Password-Checker.git
+```
 
+Install Requests library if you don't already have it.
 ```
 pip install -r requirements.txt
 ```
 
-Run Script
+Run script in project directory
 ```
 python password_checker.py
 ```
